@@ -1,3 +1,7 @@
+##Netlify Deploy:
+
+https://app.netlify.com/sites/quizzical-poitras-a2562c
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
